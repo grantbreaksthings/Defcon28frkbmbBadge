@@ -1,0 +1,2 @@
+random.c:3:9:u8gen_rand	8	static
+random.c:7:6:seed_rng	16	static

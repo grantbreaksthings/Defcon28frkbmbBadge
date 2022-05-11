@@ -1,0 +1,4 @@
+matrix.c:7:5:init_matrix	40	static
+matrix.c:42:5:update_fbuf	32	static
+matrix.c:55:5:transform_fbuf	8	static
+matrix.c:77:5:clear_fbuf	8	static

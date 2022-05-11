@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "doggo")(type KiCad)(uri "$(KIPRJMOD)/doggo.pretty")(options "")(descr ""))
+)

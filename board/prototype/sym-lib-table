@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name frkbmb28-rescue)(type Legacy)(uri ${KIPRJMOD}/frkbmb28-rescue.lib)(options "")(descr ""))
+  (lib (name frkbmb28)(type Legacy)(uri ${KIPRJMOD}/frkbmb28.lib)(options "")(descr ""))
+)

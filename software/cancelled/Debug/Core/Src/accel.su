@@ -1,0 +1,9 @@
+accel.c:3:5:init_accel	40	static
+accel.c:22:9:_get_16bit_reg	40	static
+accel.c:38:9:get_x	16	static
+accel.c:42:9:get_y	16	static
+accel.c:45:9:get_z	16	static
+accel.c:48:9:get_temp	16	static
+accel.c:52:9:get_x_avg	24	static
+accel.c:60:9:get_y_avg	24	static
+accel.c:68:9:get_z_avg	24	static

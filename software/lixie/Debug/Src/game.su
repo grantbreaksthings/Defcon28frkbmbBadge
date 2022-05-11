@@ -1,0 +1,16 @@
+game.c:23:6:InitGame	8	static
+game.c:33:6:PrintBadInput	24	static
+game.c:48:6:GameLoop	24	static
+game.c:98:6:PrintLocation	112	static
+game.c:135:6:PrintInventory	16	static
+game.c:143:6:PrintHelp	8	static
+game.c:177:6:Examine	24	static
+game.c:202:6:GetItem	16	static
+game.c:215:6:MovePlayer	8	static
+game.c:279:6:PrintRoomText	16	static
+game.c:293:6:MixItems	16	static
+game.c:310:6:MixItemsMixer	16	static
+game.c:328:6:UseItem	24	static
+game.c:357:6:UseItemStateMachine	8	static
+game.c:378:6:TurnObject	16	static
+game.c:412:6:TurnObjectStateMachine	24	static

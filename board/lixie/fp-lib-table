@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name lixie)(type KiCad)(uri "$(KIPRJMOD)/lixie.pretty")(options "")(descr ""))
+  (lib (name Connector_USB)(type KiCad)(uri "$(KIPRJMOD)/Connector_USB.pretty")(options "")(descr ""))
+  (lib (name Fiducial)(type KiCad)(uri "$(KIPRJMOD)/Fiducial.pretty")(options "")(descr ""))
+  (lib (name RF_Shielding)(type KiCad)(uri "$(KIPRJMOD)/RF_Shielding.pretty")(options "")(descr ""))
+)

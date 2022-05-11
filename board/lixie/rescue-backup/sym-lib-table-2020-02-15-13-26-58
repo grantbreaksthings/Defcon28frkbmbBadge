@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name lixie-rescue)(type Legacy)(uri ${KIPRJMOD}/lixie-rescue.lib)(options "")(descr ""))
+  (lib (name lixie)(type Legacy)(uri ${KIPRJMOD}/lixie.lib)(options "")(descr ""))
+  (lib (name frkbmb28-cache)(type Legacy)(uri /home/grant/projects/Defcon28frkbmbBadge/board/prototype/frkbmb28-cache.lib)(options "")(descr ""))
+)

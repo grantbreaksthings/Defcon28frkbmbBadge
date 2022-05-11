@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lixie-rescue)(type Legacy)(uri ${KIPRJMOD}/lixie-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "katsudon")(type KiCad)(uri "$(KIPRJMOD)/katsudon.pretty")(options "")(descr ""))
+)

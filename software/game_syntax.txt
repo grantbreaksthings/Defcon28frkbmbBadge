@@ -1,0 +1,40 @@
+Input syntax:
+	action noun(s)
+
+Nouns:
+	nav direction
+		Navigational direction. n (north), s (south), e (east), w (west), u (up), d (down)
+	turn direction
+		left or right
+	item
+		An item in the players inventory (no spaces)
+	object
+		An object in the game world outside of the players inventory (no spaces)
+	command
+		An arbitrary phrase (spaces allowed)
+
+
+Actions:
+	go (nav direction):
+		Move goaround the world in a nav direction
+	use (item) [object]
+		Use an item in your inventory on an optional object
+	push (object)
+		Push an object
+	pull (object)
+		Pull an object
+	turn (object) (turn direction)
+		Turn an object in a turn direction
+	location
+		Print the current location of the player to the console
+	say (command)
+		"Speak" in the game world
+	get (item)
+		Pick up an item
+	mix (item) (item)
+		Combine two items together
+	help
+		Print a help dialogue
+
+
+

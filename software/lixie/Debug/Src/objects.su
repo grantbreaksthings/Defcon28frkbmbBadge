@@ -1,0 +1,2 @@
+objects.c:15:6:InitObjs	8	static
+objects.c:25:13:GetObjByToken	24	static
